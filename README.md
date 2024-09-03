@@ -2,6 +2,8 @@
 - 👀 I’m interested in Software Developer
 - 🌱 I’m currently learning Django
 - 📫 How to reach me karthick1819ka@gmail.com
+- MBA - Human Resource Management
+- B.E - Mechanical Engineering
 
 
 <!---
